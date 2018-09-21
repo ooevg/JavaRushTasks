@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80591f5d-a329-457b-b285-ffb6ece466c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaRushTasks/2.JavaCore/src/com/javarush/task/task14/task1408/BelarusianHen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaRushTasks/2.JavaCore/src/com/javarush/task/task14/task1408/Hen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaRushTasks/2.JavaCore/src/com/javarush/task/task14/task1408/MoldovanHen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaRushTasks/2.JavaCore/src/com/javarush/task/task14/task1408/RussianHen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaRushTasks/2.JavaCore/src/com/javarush/task/task14/task1408/UkrainianHen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRushTasks/2.JavaCore/src/com/javarush/task/task14/task1408/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushTasks/2.JavaCore/src/com/javarush/task/task14/task1408/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaRushTasks/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushTasks/out.log" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,7 +107,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1061" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
