@@ -10,6 +10,10 @@ public class Solution {
         println(new SuspensionBridge());
     }
 
+    public static void println(Bridge bridge) {
+        System.out.print(bridge.getCarsCount());
+    }
+
     //add println method here
 }
 
