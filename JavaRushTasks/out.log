@@ -1,0 +1,27 @@
+2018-09-21 11:39:21 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-09-21 11:39:21 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.21 ----------
+
+2018-09-21 11:39:21 INFO  JavaRushTasksProjectComponent.setAutoscrolls(343) - Autoscrolls успешно установлены
+2018-09-21 11:39:21 INFO  ApacheHttpClient.login(228) - Ожидание ответа сервера.
+2018-09-21 11:39:21 INFO  ApacheHttpClient.login(232) - responseCode = 200
+2018-09-21 11:39:21 INFO  ApacheHttpClient.login(263) - JSESSIONID OK
+2018-09-21 11:39:21 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2018-09-21 11:39:21 INFO  ApacheHttpClient.refreshUserInfo(297) - Информация о пользователе получена.
+2018-09-21 11:39:21 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-09-21 11:39:21 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-09-21 11:39:31 INFO  ApacheHttpClient.getWebResourceAsStream(437) - responseCode = 200
+2018-09-21 11:39:32 INFO  ApacheHttpClient.getFilteredTasks(324) - responseCode = 200
+2018-09-21 11:40:33 INFO  ApacheHttpClient.getWebResourceAsStream(437) - responseCode = 200
+2018-09-21 11:40:34 INFO  ApacheHttpClient.getFilteredTasks(324) - responseCode = 200
+2018-09-21 11:40:42 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-09-21 11:40:42 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-09-21 11:41:57 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-09-21 11:41:57 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.21 ----------
+
+2018-09-21 11:41:57 INFO  JavaRushTasksProjectComponent.setAutoscrolls(343) - Autoscrolls успешно установлены
+2018-09-21 11:41:59 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2018-09-21 11:41:59 INFO  ApacheHttpClient.refreshUserInfo(297) - Информация о пользователе получена.
+2018-09-21 11:41:59 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-09-21 11:41:59 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
